@@ -12,3 +12,6 @@ https://yandex.ru/blog/company/77617
 https://techrocks.ru/2018/04/06/23-best-react-ui-component-frameworks/
 
 https://learn-reactjs.ru/home
+
+https://habr.com/ru/company/mailru/blog/303456/#6
+https://habr.com/ru/company/mailru/blog/303456/#6
