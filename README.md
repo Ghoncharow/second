@@ -1,6 +1,8 @@
 # second
 Учебный проект на фреймворке React
 
+https://habr.com/ru/company/mailru/blog/425821/
+
 https://abraxabra.ru/blog/prochee/static-site-generators-for-2019/
 
 https://habr.com/ru/company/yamoney/blog/414183/
