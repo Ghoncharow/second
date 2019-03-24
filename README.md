@@ -14,3 +14,5 @@ https://techrocks.ru/2018/04/06/23-best-react-ui-component-frameworks/
 https://learn-reactjs.ru/home
 
 https://habr.com/ru/company/mailru/blog/303456/#6
+
+https://grokonez.com/frontend/redux/how-to-integrate-react-redux-nodejs-express-restapis-sequelize-orm-postgresql-crud-example
