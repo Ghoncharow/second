@@ -18,3 +18,5 @@ https://habr.com/ru/company/mailru/blog/303456/#6
 https://grokonez.com/frontend/redux/how-to-integrate-react-redux-nodejs-express-restapis-sequelize-orm-postgresql-crud-example
 
 https://grokonez.com/spring-framework/spring-data-rest/spring-boot-react-redux-postgresql-crud-example
+
+http://www.tutorialspoint.com/graphql/graphql_example.htm
